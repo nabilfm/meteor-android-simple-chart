@@ -1,2 +1,2 @@
-# meteor-android-simple-chart
+# meteor-android_simple-chart
 Meteor 1.3 
